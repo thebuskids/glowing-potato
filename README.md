@@ -5,3 +5,4 @@ data science projects
 - star-wars-survey
 - world happiness report
 - movie recommendation system (user-based collaborative filtering)
+- telco churn classification
